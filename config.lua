@@ -8,19 +8,19 @@ Config.menuKey = 344
 --- Don't touch :)
 --- You can touch if you want to change the language?
 Config.doors = {
-    [1] = "Front Left",
-    [2] = "Front Right" ,
-    [3] = "Back Left",
-    [4] = "Back Right",
-    [5] = "Hood" ,
-    [6] = "Trunk",  
-    [7] = "Back" , 
-    [8] = "Back 2"  
+    [1] = "Vorne links",
+    [2] = "Vorne rechts" ,
+    [3] = "Hinten links",
+    [4] = "Hinten rechts",
+    [5] = "Motorhaube" ,
+    [6] = "Kofferraum",  
+    [7] = "Zurück" , 
+    [8] = "Zurück 2"  
 }
 
 Config.windows = {
-    [1] = "Front Left",
-    [2] = "Front Right" ,
-    [3] = "Back Left",
-    [4] = "Back Right",
+    [1] = "Vorne links",
+    [2] = "Vorne rechts" ,
+    [3] = "Hinten links",
+    [4] = "Hinten rechts",
 }
